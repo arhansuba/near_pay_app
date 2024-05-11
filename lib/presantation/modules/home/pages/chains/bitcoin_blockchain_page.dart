@@ -8,7 +8,10 @@ import 'package:near_pay_app/presantation/modules/home/components/chains/bitcoin
 import 'package:near_pay_app/presantation/modules/home/vms/chains/bitcoin/bitcoin_vm.dart';
 import 'package:near_pay_app/presantation/modules/home/vms/chains/bitcoin/ui_state_bitcoin.dart';
 import 'package:near_pay_app/presantation/services/chains/bitcoin_blockchain_service.dart';
+<<<<<<< HEAD
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 
 class BitcoinBlockchainPage extends StatefulWidget {

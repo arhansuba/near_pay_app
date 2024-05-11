@@ -5,7 +5,10 @@ import 'dart:convert';
 
 import 'package:json_annotation/json_annotation.dart';
 import 'package:near_pay_app/data/network/model/block_types.dart';
+<<<<<<< HEAD
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 
 part 'state_block.g.dart';

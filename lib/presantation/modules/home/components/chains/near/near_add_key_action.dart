@@ -9,7 +9,10 @@ import 'package:near_pay_app/presantation/modules/home/components/core/crypto_ac
 import 'package:near_pay_app/presantation/modules/home/vms/chains/near/near_vm.dart';
 import 'package:near_pay_app/presantation/modules/home/vms/chains/near/ui_state.dart';
 import 'package:near_pay_app/presantation/theme/app_theme.dart';
+<<<<<<< HEAD
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 
 class NearAddKeyAction extends StatefulWidget {

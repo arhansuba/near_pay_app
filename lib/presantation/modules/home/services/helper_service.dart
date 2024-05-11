@@ -2,7 +2,10 @@ import 'dart:convert';
 
 import 'package:dio/dio.dart';
 import 'package:near_pay_app/data/network/helper_network.dart';
+<<<<<<< HEAD
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 import 'package:url_launcher/url_launcher.dart';
 
 

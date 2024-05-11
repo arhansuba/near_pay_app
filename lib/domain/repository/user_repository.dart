@@ -1,6 +1,9 @@
 
 import 'package:near_pay_app/core/models/user.dart';
+<<<<<<< HEAD
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 import 'package:near_pay_app/presantation/services/user_service.dart';
 
 class UserRepository {

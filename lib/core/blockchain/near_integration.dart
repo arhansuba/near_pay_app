@@ -4,7 +4,11 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:near_pay_app/data/chains/near/near_blockchain_data.dart';
+<<<<<<< HEAD
 
+=======
+import 'package:near_pay_app/data/network/chains/near_rpc_client.dart';
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 class NearIntegration extends StatefulWidget {
   const NearIntegration({super.key});

@@ -5,7 +5,10 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:near_pay_app/app_icons.dart';
 import 'package:near_pay_app/presantation/utils/user_data_util.dart';
+<<<<<<< HEAD
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 
 class BeforeScanScreen extends StatefulWidget {

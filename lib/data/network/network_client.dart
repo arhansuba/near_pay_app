@@ -4,8 +4,11 @@ import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
 import 'package:near_pay_app/data/network/core/network_core.dart';
 import 'package:near_pay_app/data/network/network_resource.dart';
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 class Catcher {
   List<AppExceptions> exceptionsHandler = [];

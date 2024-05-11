@@ -4,6 +4,10 @@ import 'package:near_pay_app/presantation/services/contract_service.dart';
 
 
 
+<<<<<<< HEAD
+=======
+import 'package:near_pay_app/presantation/services/contract_service.dart';
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 class ContractRepository {
   final ContractService _contractService;

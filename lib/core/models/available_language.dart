@@ -3,7 +3,11 @@
 import 'package:flutter/material.dart';
 import 'package:near_pay_app/core/models/setting_item.dart';
 import 'package:near_pay_app/localization.dart';
+<<<<<<< HEAD
 
+=======
+import 'package:near_pay_app/core/models/setting_item.dart';
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 
 enum AvailableLanguage {

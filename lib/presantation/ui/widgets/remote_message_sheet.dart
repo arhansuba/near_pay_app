@@ -7,11 +7,20 @@ import 'package:near_pay_app/appstate_container.dart';
 import 'package:near_pay_app/data/network/model/response/alerts_response_item.dart';
 import 'package:near_pay_app/dimens.dart';
 import 'package:near_pay_app/localization.dart';
+<<<<<<< HEAD
 import 'package:near_pay_app/presantation/ui/widgets/buttons.dart';
 import 'package:near_pay_app/presantation/utils/caseconverter.dart';
 import 'package:near_pay_app/presantation/utils/sharedprefsutil.dart';
 import 'package:near_pay_app/service_locator.dart';
 import 'package:near_pay_app/styles.dart';
+=======
+import 'package:near_pay_app/data/network/model/response/alerts_response_item.dart';
+import 'package:near_pay_app/service_locator.dart';
+import 'package:near_pay_app/styles.dart';
+import 'package:near_pay_app/presantation/ui/widgets/buttons.dart';
+import 'package:near_pay_app/presantation/utils/caseconverter.dart';
+import 'package:near_pay_app/presantation/utils/sharedprefsutil.dart';
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 import 'package:url_launcher/url_launcher.dart';
 

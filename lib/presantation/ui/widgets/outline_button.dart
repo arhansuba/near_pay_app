@@ -7,7 +7,10 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:near_pay_app/presantation/ui/widgets/raised_button.dart';
+<<<<<<< HEAD
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 
 // The total time to make the button's fill color opaque and change

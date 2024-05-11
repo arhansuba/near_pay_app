@@ -14,6 +14,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:logging/logging.dart';
 import 'package:near_pay_app/app_icons.dart';
 import 'package:near_pay_app/appstate_container.dart';
+<<<<<<< HEAD
 import 'package:near_pay_app/core/models/address.dart';
 import 'package:near_pay_app/core/models/db/account.dart';
 import 'package:near_pay_app/core/models/db/appdb.dart';
@@ -52,6 +53,44 @@ import 'package:near_pay_app/presantation/utils/walletutil.dart';
 import 'package:near_pay_app/service_locator.dart';
 import 'package:near_pay_app/styles.dart';
 
+=======
+import 'package:near_pay_app/presantation/bus/account_changed_event.dart';
+import 'package:near_pay_app/presantation/bus/confirmation_height_changed_event.dart';
+import 'package:near_pay_app/presantation/bus/contact_modified_event.dart';
+import 'package:near_pay_app/presantation/bus/disable_lock_timeout_event.dart';
+import 'package:near_pay_app/presantation/bus/fcm_update_event.dart';
+import 'package:near_pay_app/presantation/bus/history_home_event.dart';
+import 'package:near_pay_app/dimens.dart';
+import 'package:near_pay_app/localization.dart';
+import 'package:near_pay_app/core/models/address.dart';
+import 'package:near_pay_app/core/models/db/account.dart';
+import 'package:near_pay_app/core/models/db/appdb.dart';
+import 'package:near_pay_app/core/models/db/contact.dart';
+import 'package:near_pay_app/core/models/list_model.dart';
+import 'package:near_pay_app/data/network/model/block_types.dart';
+import 'package:near_pay_app/data/network/model/response/account_history_response_item.dart';
+import 'package:near_pay_app/data/network/model/response/alerts_response_item.dart';
+import 'package:near_pay_app/service_locator.dart';
+import 'package:near_pay_app/styles.dart';
+import 'package:near_pay_app/presantation/ui/contacts/add_contact.dart';
+import 'package:near_pay_app/presantation/ui/popup_button.dart';
+import 'package:near_pay_app/presantation/ui/receive/receive_sheet.dart';
+import 'package:near_pay_app/presantation/ui/send/send_confirm_sheet.dart';
+import 'package:near_pay_app/presantation/ui/send/send_sheet.dart';
+// import 'package:near_pay_app/presantation/ui/settings/settings_drawer.dart';
+import 'package:near_pay_app/presantation/ui/util/routes.dart';
+import 'package:near_pay_app/presantation/ui/util/ui_util.dart';
+import 'package:near_pay_app/presantation/ui/widgets/buttons.dart';
+import 'package:near_pay_app/presantation/ui/widgets/dialog.dart';
+import 'package:near_pay_app/presantation/ui/widgets/flat_button.dart';
+import 'package:near_pay_app/presantation/ui/widgets/list_slidable.dart';
+import 'package:near_pay_app/presantation/ui/widgets/reactive_refresh.dart';
+import 'package:near_pay_app/presantation/ui/widgets/remote_message_card.dart';
+import 'package:near_pay_app/presantation/ui/widgets/remote_message_sheet.dart';
+import 'package:near_pay_app/presantation/ui/widgets/sheet_util.dart';
+import 'package:near_pay_app/presantation/utils/caseconverter.dart';
+import 'package:near_pay_app/presantation/utils/sharedprefsutil.dart';
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 import 'package:nearpay_flutter_sdk/nearpay.dart';
 
 import '../bus/disable_lock_timeout_event.dart';

@@ -3,7 +3,10 @@ import 'package:intl/intl.dart';
 import 'package:near_pay_app/core/models/available_currency.dart';
 import 'package:near_pay_app/data/network/model/response/account_history_response_item.dart';
 import 'package:near_pay_app/presantation/utils/numberutil.dart';
+<<<<<<< HEAD
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 
 /// Main wallet object that's passed around the app via state

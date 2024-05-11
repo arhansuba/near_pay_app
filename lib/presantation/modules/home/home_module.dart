@@ -6,7 +6,10 @@ import 'package:near_pay_app/presantation/modules/home/pages/core/create_wallet_
 import 'package:near_pay_app/presantation/modules/home/pages/core/crypto_actions_page.dart';
 import 'package:near_pay_app/presantation/modules/home/pages/core/home_page.dart';
 import 'package:near_pay_app/presantation/routes/routes.dart';
+<<<<<<< HEAD
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 class HomeModule extends Module {
   @override

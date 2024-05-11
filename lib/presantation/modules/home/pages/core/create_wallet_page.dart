@@ -3,7 +3,10 @@ import 'package:flutter_modular/flutter_modular.dart';
 import 'package:near_pay_app/presantation/modules/home/components/core/create_wallet_component.dart';
 import 'package:near_pay_app/presantation/routes/routes.dart';
 import 'package:near_pay_app/presantation/theme/app_theme.dart';
+<<<<<<< HEAD
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 
 class CreateWalletPage extends StatefulWidget {

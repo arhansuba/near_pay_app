@@ -17,9 +17,15 @@ import 'package:near_pay_app/presantation/modules/home/pages/core/create_wallet_
 import 'package:near_pay_app/presantation/modules/home/pages/core/crypto_actions_page.dart';
 import 'package:near_pay_app/presantation/modules/home/pages/core/home_page.dart';
 import 'package:near_pay_app/presantation/modules/home/services/helper_service.dart';
+<<<<<<< HEAD
 import 'package:near_pay_app/presantation/routes/routes.dart';
 import 'package:near_pay_app/presantation/theme/app_theme.dart';
 
+=======
+import 'package:near_pay_app/data/network/helper_network.dart';
+import 'package:near_pay_app/presantation/routes/routes.dart';
+import 'package:near_pay_app/presantation/theme/app_theme.dart';
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 import 'package:provider/provider.dart';
 
 class AppModule extends Module {

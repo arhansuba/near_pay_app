@@ -13,7 +13,10 @@ import 'package:near_pay_app/presantation/modules/home/services/helper_service.d
 import 'package:near_pay_app/presantation/modules/home/stores/chains/near_blockchain_store.dart';
 import 'package:near_pay_app/presantation/modules/home/stores/core/user_store.dart';
 import 'package:near_pay_app/presantation/modules/home/vms/chains/near/ui_state.dart';
+<<<<<<< HEAD
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 import 'package:rxdart/rxdart.dart';
 

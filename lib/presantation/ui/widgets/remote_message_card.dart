@@ -3,10 +3,15 @@
 import 'package:flutter/material.dart';
 import 'package:near_pay_app/appstate_container.dart';
 import 'package:near_pay_app/data/network/model/response/alerts_response_item.dart';
+<<<<<<< HEAD
 import 'package:near_pay_app/presantation/ui/widgets/flat_button.dart';
 
 import 'package:near_pay_app/styles.dart';
 
+=======
+import 'package:near_pay_app/styles.dart';
+import 'package:near_pay_app/presantation/ui/widgets/flat_button.dart';
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 
 class RemoteMessageCard extends StatefulWidget {

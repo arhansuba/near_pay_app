@@ -5,7 +5,10 @@ import 'package:flutter/material.dart';
 import 'package:near_pay_app/appstate_container.dart';
 import 'package:near_pay_app/localization.dart';
 import 'package:near_pay_app/presantation/ui/widgets/flat_button.dart';
+<<<<<<< HEAD
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 
 class AppPopupButton extends StatefulWidget {

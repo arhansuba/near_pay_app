@@ -9,7 +9,10 @@ import 'package:near_pay_app/presantation/modules/home/components/core/crypto_ac
 import 'package:near_pay_app/presantation/modules/home/vms/chains/bitcoin/bitcoin_vm.dart';
 import 'package:near_pay_app/presantation/modules/home/vms/chains/bitcoin/ui_state_bitcoin.dart';
 import 'package:near_pay_app/presantation/theme/app_theme.dart';
+<<<<<<< HEAD
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 
 class BitcoinTransferAction extends StatefulWidget {

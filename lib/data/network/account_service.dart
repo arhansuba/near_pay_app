@@ -8,6 +8,14 @@ import 'dart:html';
 
 import 'package:flutter/foundation.dart';
 import 'package:logging/logging.dart';
+<<<<<<< HEAD
+=======
+import 'package:near_pay_app/presantation/bus/callback_event.dart';
+import 'package:near_pay_app/presantation/bus/conn_status_event.dart';
+import 'package:near_pay_app/presantation/bus/error_response_event.dart';
+import 'package:near_pay_app/presantation/bus/price_event.dart';
+import 'package:near_pay_app/presantation/bus/subscribe_event.dart';
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 import 'package:near_pay_app/core/models/state_block.dart';
 import 'package:near_pay_app/data/network/model/base_request.dart';
 import 'package:near_pay_app/data/network/model/block_types.dart';
@@ -29,11 +37,14 @@ import 'package:near_pay_app/data/network/model/response/error_response.dart';
 import 'package:near_pay_app/data/network/model/response/pending_response.dart';
 import 'package:near_pay_app/data/network/model/response/price_response.dart';
 import 'package:near_pay_app/data/network/model/response/process_response.dart';
+<<<<<<< HEAD
 import 'package:near_pay_app/presantation/bus/callback_event.dart';
 import 'package:near_pay_app/presantation/bus/conn_status_event.dart';
 import 'package:near_pay_app/presantation/bus/price_event.dart';
 import 'package:near_pay_app/presantation/bus/subscribe_event.dart';
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 import 'package:near_pay_app/service_locator.dart';
 
 

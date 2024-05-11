@@ -10,7 +10,12 @@ import 'package:near_pay_app/localization.dart';
 import 'package:near_pay_app/presantation/utils/sharedprefsutil.dart';
 import 'package:near_pay_app/service_locator.dart';
 import 'package:near_pay_app/styles.dart';
+<<<<<<< HEAD
 
+=======
+// import 'package:near_pay_app/presantation/utils/hapticutil.dart';
+import 'package:near_pay_app/presantation/utils/sharedprefsutil.dart';
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 
 

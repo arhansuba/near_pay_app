@@ -12,8 +12,11 @@ import 'dart:async';
 import 'package:near_pay_app/core/constants/chains/bitcoin_blockchain_network_urls.dart';
 import 'package:near_pay_app/core/formaters/chains/bitcoin_formater.dart';
 import 'package:near_pay_app/data/chains/bitcoin/bitcoin_transaction_info.dart';
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 
 class BitcoinRpcClient {

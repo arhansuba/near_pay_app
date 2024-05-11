@@ -17,7 +17,10 @@ import 'package:near_pay_app/presantation/modules/home/components/chains/near/ne
 import 'package:near_pay_app/presantation/modules/home/components/chains/near/near_transfer_action.dart';
 import 'package:near_pay_app/presantation/modules/home/vms/chains/near/near_vm.dart';
 import 'package:near_pay_app/presantation/modules/home/vms/chains/near/ui_state.dart';
+<<<<<<< HEAD
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 
 class NearBlockchainPage extends StatefulWidget {

@@ -10,7 +10,13 @@ import 'package:near_pay_app/presantation/ui/util/ui_util.dart';
 import 'package:near_pay_app/presantation/ui/widgets/outline_button.dart';
 import 'package:near_pay_app/presantation/utils/user_data_util.dart';
 import 'package:near_pay_app/styles.dart';
+<<<<<<< HEAD
 
+=======
+import 'package:near_pay_app/presantation/ui/util/ui_util.dart';
+import 'package:near_pay_app/presantation/ui/widgets/outline_button.dart';
+import 'package:near_pay_app/presantation/utils/user_data_util.dart';
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 
 /// A widget for displaying a mnemonic phrase

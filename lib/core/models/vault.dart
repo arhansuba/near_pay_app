@@ -5,7 +5,13 @@ import 'package:near_pay_app/presantation/utils/encrypt.dart';
 import 'package:near_pay_app/presantation/utils/random_util.dart';
 import 'package:near_pay_app/presantation/utils/sharedprefsutil.dart';
 import 'package:near_pay_app/service_locator.dart';
+<<<<<<< HEAD
 
+=======
+import 'package:near_pay_app/presantation/utils/encrypt.dart';
+import 'package:near_pay_app/presantation/utils/random_util.dart';
+import 'package:near_pay_app/presantation/utils/sharedprefsutil.dart';
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 import 'package:shared_preferences/shared_preferences.dart';
 
 

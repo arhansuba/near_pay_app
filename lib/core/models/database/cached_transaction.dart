@@ -1,6 +1,9 @@
 
 import 'package:near_pay_app/core/models/transaction.dart';
+<<<<<<< HEAD
 
+=======
+>>>>>>> dfa4b98bee355a1c88fba68c63fd3df725aef5d0
 
 class CachedTransaction {
   final String id;
